@@ -4,7 +4,7 @@ number_meters = float(input("Enter the number of meters: "))
 # Ask what to convert into
 convert_to = input("Convert to 1(miles) 2(inches) or 3(yards)")
 
-# Сheck and convet
+# Сheck and convet 
 if convert_to == "1":
     print(f"{number_meters} in miles = {number_meters / 1609.34}miles")
 elif convert_to == "2":

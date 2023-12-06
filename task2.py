@@ -2,8 +2,8 @@
 number1 = float(input("Enter number1 : "))
 number2 = float(input("Enter number2 : "))
 number3 = float(input("Enter numbe3 : "))
-
-# Request action
+ 
+# Request action 
 action = input("Enter action: 1(max) or 2(min) or 3(aver)-arithmetic average : ") 
 
 # We announce the result
